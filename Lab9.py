@@ -5,6 +5,7 @@
 #Program Inputs: movies file
 #Program Outputs: output file with added profit, info of movies with highest and lowest profits
 
+
 DATE = 0 #release date
 TITLE = 1
 BUDGET = 2
